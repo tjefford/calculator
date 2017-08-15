@@ -1,0 +1,12 @@
+{
+    "name": "tjefford/calculator",
+    "description": "A test package for laravel",
+    "authors": [
+        {
+            "name": "Tyler Jefford",
+            "email": "none@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
